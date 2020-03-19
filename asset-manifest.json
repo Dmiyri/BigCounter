@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BigCounter/static/css/main.77af1388.chunk.css",
+    "main.js": "/BigCounter/static/js/main.f684628e.chunk.js",
+    "main.js.map": "/BigCounter/static/js/main.f684628e.chunk.js.map",
+    "runtime-main.js": "/BigCounter/static/js/runtime-main.fe8a9fdc.js",
+    "runtime-main.js.map": "/BigCounter/static/js/runtime-main.fe8a9fdc.js.map",
+    "static/js/2.efd7bf70.chunk.js": "/BigCounter/static/js/2.efd7bf70.chunk.js",
+    "static/js/2.efd7bf70.chunk.js.map": "/BigCounter/static/js/2.efd7bf70.chunk.js.map",
+    "index.html": "/BigCounter/index.html",
+    "precache-manifest.9f8b885550b0098d55abbb8dde1ef802.js": "/BigCounter/precache-manifest.9f8b885550b0098d55abbb8dde1ef802.js",
+    "service-worker.js": "/BigCounter/service-worker.js",
+    "static/css/main.77af1388.chunk.css.map": "/BigCounter/static/css/main.77af1388.chunk.css.map",
+    "static/js/2.efd7bf70.chunk.js.LICENSE.txt": "/BigCounter/static/js/2.efd7bf70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe8a9fdc.js",
+    "static/js/2.efd7bf70.chunk.js",
+    "static/css/main.77af1388.chunk.css",
+    "static/js/main.f684628e.chunk.js"
+  ]
+}
