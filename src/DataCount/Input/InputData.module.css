@@ -1,0 +1,50 @@
+.wrapper
+{
+    display: flex;
+    flex-direction: column;
+
+    border: 3px solid cornflowerblue;
+    border-radius: 10px;
+}
+
+.inputBlock
+{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+
+    margin: 10px;
+    padding: 10px;
+
+    color: #61dafb;
+}
+
+.inputs
+{
+    font-weight: bolder;
+
+    width: 50%;
+    margin: 5px;
+    padding: 5px;
+
+    text-align: center;
+
+    border-radius: 10px;
+    background-color: #61dafb;
+}
+
+.redSucks
+{
+    font-weight: bolder;
+
+    width: 50%;
+    margin: 5px;
+    padding: 5px;
+
+    text-align: center;
+    color:red;
+    border-color: red;
+    border-radius: 10px;
+    background-color: #61dafb;
+}

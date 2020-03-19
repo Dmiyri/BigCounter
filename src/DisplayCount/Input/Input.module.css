@@ -1,0 +1,31 @@
+
+.inputWin  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #61dafb;
+  height: 170px;
+  width: 300px;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 70px;
+  font-weight: bold;
+  vertical-align: center;
+}
+
+
+.redSucks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #61dafb;
+  height: 170px;
+  width: 90%;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 70px;
+  font-weight: bold;
+ color:red;
+}

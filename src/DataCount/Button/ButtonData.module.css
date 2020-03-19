@@ -1,0 +1,33 @@
+.buttonData button{
+  width: 100px;
+  height: 50px;
+  background: #61dafb;
+  color: #333;
+  border-radius: 5px;
+  border: 1px solid #666;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.buttonData {
+  border: 3px solid cornflowerblue;
+  width: 90%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.dis{
+  opacity: 0.5;
+  width: 100px;
+  height: 50px;
+  background: #61dafb;
+  color: #333;
+  border-radius: 5px;
+  border: 1px solid #666;
+  font-size: 30px;
+  font-weight: bolder;
+}
